@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NituY](https://github.com/NituY)
+- 👨‍💻 All of my projects are available at [NituY](https://github.com/NituY)
 
 - 💬 Ask me about **Android app development**
 
 - 📫 How to reach me **nituyadavcse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1yqWoZCLhJNOvKTplyNjgr-_M4k50cEJB](https://drive.google.com/drive/u/0/folders/1yqWoZCLhJNOvKTplyNjgr-_M4k50cEJB)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/drive/u/0/folders/1yqWoZCLhJNOvKTplyNjgr-_M4k50cEJB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
