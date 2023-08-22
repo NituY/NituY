@@ -1,7 +1,7 @@
 ![Navy Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/108191093/229182726-72438c4e-7bc4-464f-a32a-627a9496bc7c.png)
 
 <h1 align="center">Hello 👋, I'm Nitu Yadav</h1>
-<h3 align="center">I am currently a Third Year Student pursuing Computer Science Engineering Degree</h3>
+<h3 align="center">I am currently a Final Year Student pursuing Computer Science Engineering Degree</h3>
 
 - 🔭 I’m currently working with Analysed.io as **Android app developer**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nituyadavcse@gmail.com**
 
-- 📄 Know about my experiences [Download Resume](https://drive.google.com/drive/u/0/folders/1yqWoZCLhJNOvKTplyNjgr-_M4k50cEJB)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1Pb66mphnLlDZpsudEW6-2mXMND0-huk0/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
